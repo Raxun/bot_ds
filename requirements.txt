@@ -1,0 +1,12 @@
+anyio==3.5.0
+discord==1.7.3
+discord-voice==0.0.0
+discord-webhook==0.15.0
+discord.py==1.7.3
+spotipy==2.19.0
+SQLAlchemy==1.4.31
+Werkzeug==2.0.3
+youtube-dl==2021.12.17
+youtube-search==2.1.0
+youtube-search-python==1.6.2
+youtube-search-requests==0.1.20
